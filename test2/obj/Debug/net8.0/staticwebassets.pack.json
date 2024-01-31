@@ -1,0 +1,3553 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/obj/Debug/net8.0/scopedcss/projectbundle/test2.bundle.scp.css",
+      "PackagePath": "staticwebassets/test2.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/css/app.min.css",
+      "PackagePath": "staticwebassets/assets/css/app.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/css/form.min.css",
+      "PackagePath": "staticwebassets/assets/css/form.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/css/pages/extra_pages.css",
+      "PackagePath": "staticwebassets/assets/css/pages/extra_pages.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/css/styles/all-themes.css",
+      "PackagePath": "staticwebassets/assets/css/styles/all-themes.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/FontAwesome.otf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/fontawesome/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/iconfont/MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/iconfont/MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/iransans/IRANSans-Light-web.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/iransans/IRANSans-Light-web.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/iransans/IRANSans-Light-web.woff",
+      "PackagePath": "staticwebassets/assets/fonts/iransans/IRANSans-Light-web.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/iransans/IRANSansLight.woff",
+      "PackagePath": "staticwebassets/assets/fonts/iransans/IRANSansLight.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/poppins/poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/poppins/poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/poppins/poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/poppins/poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.eot",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.svg",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/Simple-Line-Icons4c824c82.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/Simple-Line-Iconsd41dd41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/Simple-Line-Iconsd41dd41d.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/css/simple-line-icons.css",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/css/simple-line-icons.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.eot",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.svg",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons4c824c82.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/Simple-Line-Iconsd41dd41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/Simple-Line-Iconsd41dd41d.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/css/simple-line-icons.css",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/css/simple-line-icons.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/fonts/poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/fonts/poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/simple-line-icons/poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/simple-line-icons/poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/assets/fonts/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/themify-icons/fonts/themify9f249f24.eot",
+      "PackagePath": "staticwebassets/assets/fonts/themify-icons/fonts/themify9f249f24.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/themify-icons/fonts/themify9f249f24.svg",
+      "PackagePath": "staticwebassets/assets/fonts/themify-icons/fonts/themify9f249f24.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/fonts/themify-icons/themify-icons.css",
+      "PackagePath": "staticwebassets/assets/fonts/themify-icons/themify-icons.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/animation-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/animation-bg.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/bg-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/bg-01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/favicon.ico",
+      "PackagePath": "staticwebassets/assets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/10.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/10.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/11.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/11.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/12.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/12.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/13.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/13.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/14.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/14.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/15.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/15.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/16.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/16.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/17.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/17.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/18.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/18.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/19.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/19.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/2.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/20.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/20.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/3.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/4.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/5.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/6.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/7.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/7.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/8.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/8.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/9.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/9.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-10.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-10.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-11.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-11.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-12.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-12.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-13.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-13.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-14.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-14.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-15.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-15.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-16.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-16.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-17.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-17.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-18.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-18.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-19.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-19.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-2.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-20.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-20.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-3.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-4.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-5.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-6.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-7.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-7.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-8.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-8.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/image-gallery/thumb/thumb-9.jpg",
+      "PackagePath": "staticwebassets/assets/images/image-gallery/thumb/thumb-9.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/loading.png",
+      "PackagePath": "staticwebassets/assets/images/loading.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/logo.png",
+      "PackagePath": "staticwebassets/assets/images/logo.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/media.png",
+      "PackagePath": "staticwebassets/assets/images/media.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/pages/bg-01.png",
+      "PackagePath": "staticwebassets/assets/images/pages/bg-01.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/pages/bg-02.png",
+      "PackagePath": "staticwebassets/assets/images/pages/bg-02.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/pages/bg-03.png",
+      "PackagePath": "staticwebassets/assets/images/pages/bg-03.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post1.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post11.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post11.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post12.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post12.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post13.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post13.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post2.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post2.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post3.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post3.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post4.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post4.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post5.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post5.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post6.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post6.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post7.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post7.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post8.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post8.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/posts/post9.jpg",
+      "PackagePath": "staticwebassets/assets/images/posts/post9.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-13.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-13.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-14.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-14.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-15.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-15.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-16.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-16.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-17.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-17.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-18.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-18.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-19.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-19.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p-20.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p-20.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p10-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p10-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p10.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p10.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p11-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p11-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p11.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p11.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p12-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p12-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p12.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p12.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p2.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p2.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p3.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p3.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p4.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p4.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p5.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p5.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p6.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p6.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p7-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p7-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p7.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p7.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p8-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p8-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p8.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p8.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p9-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p9-1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/products/p9.jpg",
+      "PackagePath": "staticwebassets/assets/images/products/p9.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user.jpg",
+      "PackagePath": "staticwebassets/assets/images/user.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user1.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user10.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user10.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user11.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user11.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user2.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user2.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user3.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user3.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user4.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user4.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user5.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user5.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user6.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user6.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user7.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user7.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user8.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user8.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/user9.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/user9.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig1.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig1.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig2.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig2.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig3.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig3.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig4.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig4.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig5.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig5.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig6.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig6.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig7.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig7.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig8.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig8.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/user/usrbig9.jpg",
+      "PackagePath": "staticwebassets/assets/images/user/usrbig9.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/images/usrbig.jpg",
+      "PackagePath": "staticwebassets/assets/images/usrbig.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/admin.js",
+      "PackagePath": "staticwebassets/assets/js/admin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/app.min.js",
+      "PackagePath": "staticwebassets/assets/js/app.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/amcharts4/animated.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/amcharts4/animated.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/amcharts4/charts.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/amcharts4/charts.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/amcharts4/core.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/amcharts4/core.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/amcharts4/maps.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/amcharts4/maps.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/amcharts4/worldLow.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/amcharts4/worldLow.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/apexcharts/apexcharts.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/apexcharts/apexcharts.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/ckeditor.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/ckeditor.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/config.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/config.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/contents.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/contents.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/lang/en.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/lang/en.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/af.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/af.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/az.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/az.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/da.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/da.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/de.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/de.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/el.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/el.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/en.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/en.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/es.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/es.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/et.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/et.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/he.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/he.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/id.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/id.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/it.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/it.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/km.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/km.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/no.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/no.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/si.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/si.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/th.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/th.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/about/dialogs/about.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/about/dialogs/about.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/about/dialogs/logo_ckeditor.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/about/dialogs/logo_ckeditor.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/clipboard/dialogs/paste.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/clipboard/dialogs/paste.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/dialog/dialogDefinition.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/dialog/dialogDefinition.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/dialog/styles/dialog.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/dialog/styles/dialog.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/icons.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/icons.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/icons_hidpi.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/icons_hidpi.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/image/dialogs/image.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/image/dialogs/image.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/image/images/noimage.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/image/images/noimage.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/link/dialogs/anchor.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/link/dialogs/anchor.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/link/dialogs/link.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/link/dialogs/link.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/link/images/anchor.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/link/images/anchor.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/link/images/hidpi/anchor.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/link/images/hidpi/anchor.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/magicline/images/hidpi/icon.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/magicline/images/hidpi/icon.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/magicline/images/icon-rtl.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/magicline/images/icon-rtl.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/magicline/images/icon.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/magicline/images/icon.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/pastefromgdocs/filter/default.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/pastefromgdocs/filter/default.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/pastefromword/filter/default.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/pastefromword/filter/default.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/pastetools/filter/common.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/pastetools/filter/common.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/pastetools/filter/image.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/pastetools/filter/image.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/CHANGELOG.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/CHANGELOG.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/LICENSE.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/LICENSE.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/README.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/README.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/dialogs/dialog.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/dialogs/dialog.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/dialogs/options.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/dialogs/options.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/dialogs/toolbar.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/dialogs/toolbar.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/af.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/af.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ar.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ar.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/az.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/az.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/bg.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/bg.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ca.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ca.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/cs.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/cs.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/cy.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/cy.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/da.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/da.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/de.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/de.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/el.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/el.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en-au.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en-au.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/en.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/eo.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/eo.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/es.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/es.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/et.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/et.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/eu.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/eu.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fa.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fa.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fi.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fi.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/fr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/gl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/gl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/he.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/he.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/hr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/hr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/hu.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/hu.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/id.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/id.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/it.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/it.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ja.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ja.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/km.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/km.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ko.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ko.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ku.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ku.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/lt.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/lt.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/lv.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/lv.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/nb.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/nb.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/nl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/nl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/no.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/no.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/oc.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/oc.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/pl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/pl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/pt.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/pt.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ro.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ro.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ru.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ru.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/si.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/si.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sk.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sk.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sl.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sl.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sq.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sq.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sv.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/sv.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/th.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/th.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/tr.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/tr.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/tt.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/tt.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ug.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/ug.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/uk.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/uk.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/vi.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/vi.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/zh.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/lang/zh.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/specialchar.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/specialchar/dialogs/specialchar.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/table/dialogs/table.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/table/dialogs/table.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/tableselection/styles/tableselection.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/tableselection/styles/tableselection.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/tabletools/dialogs/tableCell.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/tabletools/dialogs/tableCell.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/widget/images/handle.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/widget/images/handle.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/LICENSE.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/LICENSE.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/README.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/README.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/dialogs/ciframe.html",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/dialogs/ciframe.html"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/dialogs/tmpFrameset.html",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/dialogs/tmpFrameset.html"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/dialogs/wsc.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/dialogs/wsc.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/dialogs/wsc.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/dialogs/wsc.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/dialogs/wsc_ie.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/dialogs/wsc_ie.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/dialog.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/dialog.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/dialog_ie.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/dialog_ie.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/dialog_ie8.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/dialog_ie8.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/dialog_iequirks.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/dialog_iequirks.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/editor.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/editor.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/editor_gecko.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/editor_gecko.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/editor_ie.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/editor_ie.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/editor_ie8.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/editor_ie8.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/editor_iequirks.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/editor_iequirks.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/en.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/en.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/icons.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/icons.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/icons_hidpi.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/icons_hidpi.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/arrow.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/arrow.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/close.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/close.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/close.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/close.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/lock.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/lock.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/refresh.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/hidpi/refresh.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/lock-open.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/lock-open.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/lock.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/lock.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/refresh.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/refresh.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/images/spinner.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/images/spinner.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/skins/moono-lisa/readme.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/skins/moono-lisa/readme.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/ckeditor/styles.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/ckeditor/styles.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/datamaps/d3.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/datamaps/d3.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/datamaps/datamaps.world.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/datamaps/datamaps.world.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/datamaps/topojson.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/datamaps/topojson.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/echart/echarts.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/echart/echarts.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/editable-table/mindmup-editabletable.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/editable-table/mindmup-editabletable.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/buttons.flash.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/buttons.flash.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/buttons.html5.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/buttons.html5.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/buttons.print.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/buttons.print.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/dataTables.buttons.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/jszip.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/jszip.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/pdfmake.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/pdfmake.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/export-tables/vfs_fonts.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/export-tables/vfs_fonts.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/jquery-steps/jquery.steps.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/jquery-steps/jquery.steps.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/lightgallery/dist/css/lightgallery.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/lightgallery/dist/css/lightgallery.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/lightgallery/dist/js/lightgallery-all.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/lightgallery/dist/js/lightgallery-all.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/materialize-rtl/materialize-rtl.min.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/materialize-rtl/materialize-rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/multiselect/css/multi-select.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/multiselect/css/multi-select.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/multiselect/js/jquery.multi-select.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/multiselect/js/jquery.multi-select.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/rangeSlider/css/ion.rangeSlider.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/rangeSlider/css/ion.rangeSlider.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/rangeSlider/css/ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/rangeSlider/css/ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/rangeSlider/js/ion.rangeSlider.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/rangeSlider/js/ion.rangeSlider.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/jquery.tinymce.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/jquery.tinymce.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/langs/readme.md",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/langs/readme.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/license.txt",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/license.txt"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/advlist/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/advlist/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/advlist/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/advlist/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/anchor/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/anchor/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/anchor/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/anchor/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/autolink/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/autolink/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/autolink/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/autolink/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/autoresize/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/autoresize/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/autoresize/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/autoresize/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/autosave/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/autosave/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/autosave/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/autosave/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/bbcode/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/bbcode/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/bbcode/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/bbcode/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/charmap/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/charmap/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/charmap/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/charmap/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/code/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/code/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/code/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/code/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/codesample/css/prism.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/codesample/css/prism.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/codesample/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/codesample/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/codesample/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/codesample/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/colorpicker/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/colorpicker/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/colorpicker/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/colorpicker/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/css/dialog.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/css/dialog.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/buttons.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/buttons.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/icons.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/icons.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/items.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/items.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/menu_arrow.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/menu_arrow.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/menu_check.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/menu_check.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/progress.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/progress.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/img/tabs.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/img/tabs.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/tiny_mce_popup.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/tiny_mce_popup.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/utils/editable_selects.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/utils/editable_selects.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/utils/form_utils.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/utils/form_utils.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/utils/mctabs.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/utils/mctabs.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/compat3x/utils/validate.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/compat3x/utils/validate.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/contextmenu/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/contextmenu/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/contextmenu/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/contextmenu/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/directionality/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/directionality/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/directionality/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/directionality/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-cool.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-cool.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-cry.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-cry.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-embarassed.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-embarassed.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-frown.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-frown.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-innocent.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-innocent.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-kiss.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-kiss.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-laughing.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-laughing.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-money-mouth.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-money-mouth.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-sealed.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-sealed.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-smile.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-smile.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-surprised.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-surprised.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-tongue-out.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-tongue-out.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-undecided.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-undecided.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-wink.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-wink.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-yell.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/img/smiley-yell.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/emoticons/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/emoticons/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/fullpage/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/fullpage/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/fullpage/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/fullpage/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/fullscreen/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/fullscreen/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/fullscreen/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/fullscreen/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/help/img/logo.png",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/help/img/logo.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/help/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/help/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/help/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/help/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/hr/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/hr/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/hr/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/hr/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/image/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/image/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/image/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/image/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/imagetools/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/imagetools/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/imagetools/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/imagetools/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/importcss/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/importcss/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/importcss/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/importcss/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/insertdatetime/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/insertdatetime/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/insertdatetime/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/insertdatetime/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/legacyoutput/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/legacyoutput/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/legacyoutput/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/legacyoutput/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/link/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/link/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/link/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/link/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/lists/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/lists/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/lists/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/lists/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/media/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/media/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/media/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/media/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/nonbreaking/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/nonbreaking/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/nonbreaking/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/nonbreaking/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/noneditable/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/noneditable/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/noneditable/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/noneditable/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/pagebreak/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/pagebreak/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/pagebreak/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/pagebreak/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/paste/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/paste/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/paste/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/paste/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/preview/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/preview/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/preview/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/preview/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/print/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/print/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/print/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/print/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/save/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/save/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/save/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/save/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/searchreplace/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/searchreplace/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/searchreplace/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/searchreplace/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/spellchecker/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/spellchecker/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/spellchecker/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/spellchecker/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/tabfocus/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/tabfocus/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/tabfocus/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/tabfocus/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/table/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/table/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/table/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/table/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/template/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/template/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/template/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/template/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/textcolor/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/textcolor/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/textcolor/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/textcolor/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/textpattern/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/textpattern/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/textpattern/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/textpattern/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/toc/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/toc/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/toc/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/toc/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/visualblocks/css/visualblocks.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/visualblocks/css/visualblocks.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/visualblocks/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/visualblocks/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/visualblocks/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/visualblocks/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/visualchars/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/visualchars/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/visualchars/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/visualchars/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/wordcount/plugin.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/wordcount/plugin.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/plugins/wordcount/plugin.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/plugins/wordcount/plugin.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/content.inline.min.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/content.inline.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/content.min.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/content.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/content.mobile.min.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/content.mobile.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-mobile.woff",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-mobile.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.eot",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.svg",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.ttf",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.woff",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce-small.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.eot",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.svg",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.ttf",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.woff",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/fonts/tinymce.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/img/anchor.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/img/anchor.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/img/loader.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/img/loader.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/img/object.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/img/object.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/img/trans.gif",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/img/trans.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/skin.min.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/skin.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/skin.min.css.map",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/skin.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/skin.mobile.min.css",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/skin.mobile.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/skins/lightgray/skin.mobile.min.css.map",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/skins/lightgray/skin.mobile.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/themes/inlite/theme.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/themes/inlite/theme.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/themes/inlite/theme.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/themes/inlite/theme.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/themes/mobile/theme.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/themes/mobile/theme.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/themes/mobile/theme.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/themes/mobile/theme.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/themes/modern/theme.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/themes/modern/theme.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/themes/modern/theme.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/themes/modern/theme.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/tinymce.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/tinymce.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/bundles/tinymce/tinymce.min.js",
+      "PackagePath": "staticwebassets/assets/js/bundles/tinymce/tinymce.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/chart.min.js",
+      "PackagePath": "staticwebassets/assets/js/chart.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/form.min.js",
+      "PackagePath": "staticwebassets/assets/js/form.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/map.min.js",
+      "PackagePath": "staticwebassets/assets/js/map.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/apps/calendar.js",
+      "PackagePath": "staticwebassets/assets/js/pages/apps/calendar.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/apps/chat.js",
+      "PackagePath": "staticwebassets/assets/js/pages/apps/chat.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/apps/dragdrop.js",
+      "PackagePath": "staticwebassets/assets/js/pages/apps/dragdrop.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/apps/portfolio.js",
+      "PackagePath": "staticwebassets/assets/js/pages/apps/portfolio.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/apps/support.js",
+      "PackagePath": "staticwebassets/assets/js/pages/apps/support.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/apps/task.js",
+      "PackagePath": "staticwebassets/assets/js/pages/apps/task.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/cards/basic.js",
+      "PackagePath": "staticwebassets/assets/js/pages/cards/basic.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/amchart.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/amchart.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/apexcharts.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/apexcharts.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/chartjs.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/chartjs.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/echarts.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/echarts.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/jquery-knob.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/jquery-knob.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/morris.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/morris.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/charts/sparkline.js",
+      "PackagePath": "staticwebassets/assets/js/pages/charts/sparkline.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/dashboard/dashboard2.js",
+      "PackagePath": "staticwebassets/assets/js/pages/dashboard/dashboard2.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/dashboard/dashboard3.js",
+      "PackagePath": "staticwebassets/assets/js/pages/dashboard/dashboard3.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ecommerce/product-detail.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ecommerce/product-detail.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/examples/login-register.js",
+      "PackagePath": "staticwebassets/assets/js/pages/examples/login-register.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/examples/pages.js",
+      "PackagePath": "staticwebassets/assets/js/pages/examples/pages.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/forms/advanced-form-elements.js",
+      "PackagePath": "staticwebassets/assets/js/pages/forms/advanced-form-elements.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/forms/basic-form-elements.js",
+      "PackagePath": "staticwebassets/assets/js/pages/forms/basic-form-elements.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/forms/editors.js",
+      "PackagePath": "staticwebassets/assets/js/pages/forms/editors.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/forms/form-validation.js",
+      "PackagePath": "staticwebassets/assets/js/pages/forms/form-validation.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/forms/form-wizard.js",
+      "PackagePath": "staticwebassets/assets/js/pages/forms/form-wizard.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/index.js",
+      "PackagePath": "staticwebassets/assets/js/pages/index.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/maps/datamap.js",
+      "PackagePath": "staticwebassets/assets/js/pages/maps/datamap.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/maps/google.js",
+      "PackagePath": "staticwebassets/assets/js/pages/maps/google.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/maps/jqvmap.js",
+      "PackagePath": "staticwebassets/assets/js/pages/maps/jqvmap.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/medias/carousel.js",
+      "PackagePath": "staticwebassets/assets/js/pages/medias/carousel.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/medias/image-gallery.js",
+      "PackagePath": "staticwebassets/assets/js/pages/medias/image-gallery.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/tables/editable-table.js",
+      "PackagePath": "staticwebassets/assets/js/pages/tables/editable-table.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/tables/jquery-datatable.js",
+      "PackagePath": "staticwebassets/assets/js/pages/tables/jquery-datatable.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/todo/todo.js",
+      "PackagePath": "staticwebassets/assets/js/pages/todo/todo.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ui/animations.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ui/animations.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ui/collapse.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ui/collapse.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ui/dialogs.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ui/dialogs.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ui/notifications.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ui/notifications.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ui/range-sliders.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ui/range-sliders.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/ui/sortable-nestable.js",
+      "PackagePath": "staticwebassets/assets/js/pages/ui/sortable-nestable.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/widgets/chart-widget.js",
+      "PackagePath": "staticwebassets/assets/js/pages/widgets/chart-widget.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/pages/widgets/data-widget.js",
+      "PackagePath": "staticwebassets/assets/js/pages/widgets/data-widget.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/assets/js/table.min.js",
+      "PackagePath": "staticwebassets/assets/js/table.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/.DS_Store",
+      "PackagePath": "staticwebassets/theme-assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/custom.css",
+      "PackagePath": "staticwebassets/theme-assets/css/custom.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/custom.css.map",
+      "PackagePath": "staticwebassets/theme-assets/css/custom.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/bootstrap-slider.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/fancybox.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/fancybox.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/iziToast.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/iziToast.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/nouislider.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/nouislider.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/remixicon.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/remixicon.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/remodal-default-theme.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/remodal-default-theme.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/remodal.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/remodal.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/select2.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/select2.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/simplebar.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/simplebar.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/dependencies/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/theme-assets/css/dependencies/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/theme.css",
+      "PackagePath": "staticwebassets/theme-assets/css/theme.css"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/css/theme.css.map",
+      "PackagePath": "staticwebassets/theme-assets/css/theme.css.map"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/AdobeClean/AdobeClean-black.otf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/AdobeClean/AdobeClean-black.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/AdobeClean/AdobeClean-bold.otf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/AdobeClean/AdobeClean-bold.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/AdobeClean/AdobeClean-extrabold.otf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/AdobeClean/AdobeClean-extrabold.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/AdobeClean/AdobeClean-light.otf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/AdobeClean/AdobeClean-light.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/AdobeClean/AdobeClean-medium.otf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/AdobeClean/AdobeClean-medium.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/AdobeClean/AdobeClean-regular.otf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/AdobeClean/AdobeClean-regular.otf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebBlack.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebBlack.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebBold.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebBold.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBlack.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBlack.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBold.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBold.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebLight.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebLight.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebMedium.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebMedium.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebRegular.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebRegular.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/eot/IRANYekanWebThin.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/eot/IRANYekanWebThin.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/IRANYekanWebRegular.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/IRANYekanWebRegular.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanwebblack.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanwebblack.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanwebbold.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanwebbold.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanwebextrablack.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanwebextrablack.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanwebextrabold.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanwebextrabold.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanweblight.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanweblight.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanwebmedium.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanwebmedium.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/svg/iranyekanwebthin.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/svg/iranyekanwebthin.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBlack.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBlack.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBold.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBold.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBlack.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBlack.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBold.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebLight.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebLight.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebMedium.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebMedium.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebRegular.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebRegular.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/ttf/IRANYekanWebThin.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/ttf/IRANYekanWebThin.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebBlack.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebBlack.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebBold.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebBold.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBlack.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBlack.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBold.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBold.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebLight.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebLight.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebMedium.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebMedium.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebRegular.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebRegular.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/IRANYekanWebThin.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/IRANYekanWebThin.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff/iranyekanwebregularfanum.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff/iranyekanwebregularfanum.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBlack.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBlack.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBold.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBold.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBlack.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBlack.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBold.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBold.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebLight.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebLight.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebMedium.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebMedium.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebRegular.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebRegular.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/iranyekan/woff2/IRANYekanWebThin.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/iranyekan/woff2/IRANYekanWebThin.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/remixicons/remixicon.eot",
+      "PackagePath": "staticwebassets/theme-assets/fonts/remixicons/remixicon.eot"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/remixicons/remixicon.svg",
+      "PackagePath": "staticwebassets/theme-assets/fonts/remixicons/remixicon.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/remixicons/remixicon.ttf",
+      "PackagePath": "staticwebassets/theme-assets/fonts/remixicons/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/remixicons/remixicon.woff",
+      "PackagePath": "staticwebassets/theme-assets/fonts/remixicons/remixicon.woff"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/fonts/remixicons/remixicon.woff2",
+      "PackagePath": "staticwebassets/theme-assets/fonts/remixicons/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/.DS_Store",
+      "PackagePath": "staticwebassets/theme-assets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/avatar/default.png",
+      "PackagePath": "staticwebassets/theme-assets/images/avatar/default.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/avatar/female.png",
+      "PackagePath": "staticwebassets/theme-assets/images/avatar/female.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/010.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/010.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/011.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/011.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/012.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/012.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/013.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/013.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/014.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/014.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/015.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/015.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/016.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/016.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/017.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/017.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/018.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/018.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/019.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/019.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/020.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/020.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/021.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/021.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/022.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/022.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/023.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/023.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/024.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/024.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/025.gif",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/025.gif"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/026.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/026.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/027.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/027.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/028.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/028.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/04.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/05.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/06.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/06.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/07.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/07.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/08.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/08.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/banner/09.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/banner/09.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/carts/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/carts/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/carts/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/carts/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/carts/03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/carts/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/04.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/05.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/06.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/06.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/07.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/07.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/categories/08.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/categories/08.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/01.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/01.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/02.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/02.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/03.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/03.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/04.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/04.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/05.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/05.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/06.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/06.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/07.png",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/07.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/faq/question.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/faq/question.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/01.png",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/01.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/02.png",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/02.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/03.png",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/03.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/04.png",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/04.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/main.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/main.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/thumb01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/thumb01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/thumb02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/thumb02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/thumb03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/thumb03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/thumb04.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/thumb04.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/thumb05.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/thumb05.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/gallery/thumb06.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/gallery/thumb06.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/logo-dark.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/logo-dark.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/logo.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/logo.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/product/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/product/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/product/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/product/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/01.png",
+      "PackagePath": "staticwebassets/theme-assets/images/products/01.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/02.png",
+      "PackagePath": "staticwebassets/theme-assets/images/products/02.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/03.png",
+      "PackagePath": "staticwebassets/theme-assets/images/products/03.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/04.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/04.png",
+      "PackagePath": "staticwebassets/theme-assets/images/products/04.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/05.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/06.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/06.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/07.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/07.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/products/08.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/products/08.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/seller-logo-small.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/seller-logo-small.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/services/01.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/services/01.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/services/02.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/services/02.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/services/03.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/services/03.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/services/04.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/services/04.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/services/05.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/services/05.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/main/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/main/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/main/01.png",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/main/01.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/main/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/main/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/main/03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/main/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/main/04.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/main/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/main/05.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/main/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/mini/01.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/mini/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/mini/02.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/mini/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/mini/03.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/mini/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/slider/mini/04.jpg",
+      "PackagePath": "staticwebassets/theme-assets/images/slider/mini/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/symbol/01.png",
+      "PackagePath": "staticwebassets/theme-assets/images/symbol/01.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/symbol/02.png",
+      "PackagePath": "staticwebassets/theme-assets/images/symbol/02.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/symbol/03.png",
+      "PackagePath": "staticwebassets/theme-assets/images/symbol/03.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/404.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/404.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/cart-empty-sfl.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/cart-empty-sfl.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/cart-empty.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/cart-empty.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/checkout-successful.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/checkout-successful.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/checkout-unsuccessful.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/checkout-unsuccessful.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/club.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/club.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/cover-thumbnail.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/cover-thumbnail.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/free-shipping--banner.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/free-shipping--banner.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/giftcards.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/giftcards.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/notification.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/notification.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/orders.svg",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/orders.svg"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/profile-header-default-banner.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/profile-header-default-banner.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/images/theme/specials.png",
+      "PackagePath": "staticwebassets/theme-assets/images/theme/specials.png"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/custom.js",
+      "PackagePath": "staticwebassets/theme-assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/bootstrap-slider.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/fancybox.umd.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/fancybox.umd.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/iziToast.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/iziToast.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/jquery.simple.timer.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/jquery.simple.timer.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/nouislider.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/nouislider.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/remodal.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/remodal.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/select2.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/select2.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/simplebar.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/simplebar.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/wNumb.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/wNumb.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/dependencies/zoomsl.min.js",
+      "PackagePath": "staticwebassets/theme-assets/js/dependencies/zoomsl.min.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/js/theme.js",
+      "PackagePath": "staticwebassets/theme-assets/js/theme.js"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/custom.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/custom.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_components.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_components.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_fonts.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_fonts.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_forms.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_forms.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_global.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_global.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_helpers.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_helpers.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_modules.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_modules.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_reset.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_reset.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/_variables.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/_variables.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_accordion.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_accordion.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_alert.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_alert.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_btn.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_btn.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_card.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_card.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_dropdown.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_expandable.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_expandable.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_fancybox.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_fancybox.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_modal.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_modal.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_nav.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_nav.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_pagination.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_pagination.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_slider.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_slider.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_table.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_table.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_toast.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_toast.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/components/_tooltip.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/components/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/forms/_check.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/forms/_check.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/forms/_file.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/forms/_file.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/forms/_input.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/forms/_input.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/forms/_quantity.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/forms/_quantity.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/forms/_radio.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/forms/_radio.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/forms/_select.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/forms/_select.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/helpers/_form.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/helpers/_form.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/helpers/_global.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/helpers/_global.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/helpers/_spacing.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/helpers/_spacing.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/helpers/_typography.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/helpers/_typography.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_auth.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_auth.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_banner.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_banner.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_cart.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_cart.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_checkout.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_checkout.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_compare.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_compare.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_faq.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_faq.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_footer.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_footer.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_global.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_global.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_header-responsive.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_header-responsive.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_header.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_header.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_product.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_product.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_profile.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_profile.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_services.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_services.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_shop.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_shop.scss"
+    },
+    {
+      "Id": "/Users/vb/RiderProjects/razu/test2/wwwroot/theme-assets/scss/theme/modules/_widget.scss",
+      "PackagePath": "staticwebassets/theme-assets/scss/theme/modules/_widget.scss"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.test2.props",
+      "PackagePath": "build\\test2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.test2.props",
+      "PackagePath": "buildMultiTargeting\\test2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.test2.props",
+      "PackagePath": "buildTransitive\\test2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.test2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
